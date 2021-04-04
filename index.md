@@ -1,5 +1,5 @@
 <img src="./IMG_0412.JPG" 
-     width="400" 
+     width="300" 
      height="500" />
 
 # Rachel Doron 
