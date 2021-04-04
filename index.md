@@ -12,7 +12,7 @@ The link to my Github is [my Github](https://github.com/rdoron/CSE110-lab1).
 
 [the languages I know](#some-language-i-know-include). 
 
-[my README file](./README.md) 
+[my README file](README.md) 
 
 ## Some language I know Include 
 - C++
