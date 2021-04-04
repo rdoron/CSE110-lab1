@@ -1,6 +1,6 @@
 <img src="./IMG_0412.JPG" 
-     width="400" 
-     height="500" />
+     width="40" 
+     height="50" />
 
 # Rachel Doron 
 ** Second Year Student at UCSD ** 
