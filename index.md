@@ -3,15 +3,16 @@
      height="400" />
 
 # Rachel Doron 
-** Student at UCSD ** 
 
-* Second Year *
+**Student at UCSD** 
+
+*Second Year*
   
-~~ currently talking CSE 100 ~~ 
+~~currently talking CSE 100~~ 
 
-** major: _cog sci machine learning_ ** 
+**major: _cog sci machine learning_** 
 
-*** GPA: 3.851 *** 
+***GPA: 3.851*** 
 
 > I dont like seg faults 
 
