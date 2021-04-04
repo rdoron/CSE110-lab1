@@ -6,7 +6,7 @@
 ** Student at UCSD ** 
 
 * Second Year *
-* 
+  
 ~~ currently talking CSE 100 ~~ 
 
 ** major: _cog sci machine learning_ ** 
