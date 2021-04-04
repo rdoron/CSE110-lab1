@@ -3,7 +3,17 @@
      height="400" />
 
 # Rachel Doron 
-** Second Year Student at UCSD ** 
+
+**Student at UCSD** 
+
+*Second Year*
+  
+~~currently talking CSE 100~~ 
+
+**major: _cog sci machine learning_** 
+
+***GPA: 3.851*** 
+
 > I dont like seg faults 
 
 In java use `System.out.println("hello world")` to print out hello world.  
