@@ -2,6 +2,7 @@
 # Rachel Doron 
 ** Second Year Student at UCSD ** 
 > I dont like seg faults 
+
 In java use 'System.out.println("hello world")' to print out hello world 
 The link to my Github is [my Github](https://github.com/rdoron/CSE110-lab1).
 The link to my add-read-me file is [add read me](https://github.com/rdoron/CSE110-lab1/tree/add-read-me#cse110-lab1). 
