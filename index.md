@@ -1,4 +1,4 @@
-![picture of me](IMG_0412.JPG)
+![picture of me](./IMG_0412.JPG)
 
 # Rachel Doron 
 ** Second Year Student at UCSD ** 
