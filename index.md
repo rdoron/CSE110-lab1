@@ -10,7 +10,7 @@ The link to my Github is [my Github](https://github.com/rdoron/CSE110-lab1).
 
 The link to my add-read-me brach is [add read me](https://github.com/rdoron/CSE110-lab1/tree/add-read-me#cse110-lab1). 
 
-[my favorite coding language is](./README.md) 
+[my README file](./README.md) 
 
 Some language I know Include 
 - C++
