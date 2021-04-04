@@ -10,7 +10,7 @@ In java use `System.out.println("hello world")` to print out hello world.
 
 The link to my Github is [my Github](https://github.com/rdoron/CSE110-lab1).
 
-[the languages I know](https://github.com/rdoron/CSE110-lab1/blob/main/index.md#some-language-i-know-include). 
+[the languages I know](#some-language-i-know-include). 
 
 [my README file](./README.md) 
 
